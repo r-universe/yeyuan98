@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/yeyuan98/yeyuan98.r-universe.dev
 	branch = HEAD
+[submodule "Rabe"]
+	path = Rabe
+	url = https://github.com/yeyuan98/Rabe
+[submodule "gsAnalysis"]
+	path = gsAnalysis
+	url = https://github.com/yeyuan98/gsAnalysis
+[submodule "ijAnalysis"]
+	path = ijAnalysis
+	url = https://github.com/yeyuan98/ijAnalysis
+[submodule "y3628"]
+	path = y3628
+	url = https://github.com/yeyuan98/y3628
