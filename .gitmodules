@@ -5,6 +5,9 @@
 [submodule "Rabe"]
 	path = Rabe
 	url = https://github.com/yeyuan98/Rabe
+[submodule "clockSim"]
+	path = clockSim
+	url = https://github.com/yeyuan98/clockSim
 [submodule "gsAnalysis"]
 	path = gsAnalysis
 	url = https://github.com/yeyuan98/gsAnalysis
